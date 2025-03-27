@@ -16,7 +16,7 @@ api_key_var = None
 base_url_var = None
 model_var = None
 max_tokens_var = None
-jsonl_pairs_var = None  # 新增：控制 JSONL 每行数据对数
+jsonl_pairs_var = None
 
 
 # 去除 Markdown 标记，提取 JSON 内容
